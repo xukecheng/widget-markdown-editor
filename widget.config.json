@@ -1,0 +1,18 @@
+{
+  "packageId": "wpkxq9yATZsHz",
+  "spaceId": "spczdmQDfBAn5",
+  "entry": "./src/index.jsx",
+  "name": {
+    "zh-CN": "Markdown 编辑器",
+    "en-US": "MarkdownEditor"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "sandbox": true,
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "可以在多行文本字段中编辑或存储 Markdown 数据",
+    "en-US": "MarkdownEditor"
+  },
+  "globalPackageId": "wpkyVrnMm6ymP"
+}
